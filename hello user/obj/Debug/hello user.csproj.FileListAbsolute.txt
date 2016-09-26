@@ -1,0 +1,9 @@
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\bin\Debug\hello user.exe.config
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\bin\Debug\hello user.exe
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\bin\Debug\hello user.pdb
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\obj\Debug\hello user.csprojResolveAssemblyReference.cache
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\obj\Debug\hello_user.frmHelloUser.resources
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\obj\Debug\hello_user.Properties.Resources.resources
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\obj\Debug\hello user.csproj.GenerateResource.Cache
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\obj\Debug\hello user.exe
+\\sjsdfs1.sjsd.lcl\students\a.middlestead\my documents\visual studio 2015\Projects\hello user\hello user\obj\Debug\hello user.pdb
